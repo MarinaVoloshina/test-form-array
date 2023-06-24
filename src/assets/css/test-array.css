@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 16px;
+    color: #25506b;
+    background-color: #c6d3da !important;
+}
+
+ul {
+    list-style: none;
+    padding: 0 !important;
+}
